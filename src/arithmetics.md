@@ -32,4 +32,6 @@ sage: ZZ(143785).quo_rem(ZZ(17))
 (8457, 16)
 sage: ZZ(143785) == ZZ(8457)*ZZ(17) + ZZ(16)
 True
+sage: ZZ(12).xgcd(ZZ(5))
+(1, -2, 5)
 ```
