@@ -223,7 +223,7 @@ while k < 50:
 k
 ```
 12
-```
+
 ### Elliptic Curves over Extension Fields
 ```
 F5 = GF(5)
